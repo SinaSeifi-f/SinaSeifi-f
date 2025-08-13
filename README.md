@@ -26,19 +26,6 @@
 
 ---
 
-## 📂 Featured Projects
-<div align="center">
-  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Project One**](https://github.com/YOUR_USERNAME/project1) | High-performance API for real-time data | Node.js, Express, PostgreSQL |
-| [**Project Two**](https://github.com/YOUR_USERNAME/project2) | Responsive e-commerce platform | React, Next.js, MongoDB |
-| [**Project Three**](https://github.com/YOUR_USERNAME/project3) | Automated CI/CD for microservices | Docker, GitHub Actions |
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinaseifi-f&show_icons=true&theme=tokyonight" height="150" />
