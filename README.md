@@ -1,14 +1,14 @@
-<!-- Modern Animated GitHub Profile README -->
+<!-- Modern Animated Header & Footer for GitHub README -->
 
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Hi%20I'm%20Sina%20Seifi&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20I'm%20Sina%20Seifi%20💻&width=800&height=150" />
 </p>
 
-<p align="center">
-  <a href="mailto:sinanico80@gmail.com"><img src="https://img.shields.io/badge/-Email-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&cacheSeconds=3600" /></a>
-  <a href="https://github.com/sinaseifi-f"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+<!-- Alternative fancy header -->
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=8e2de2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sina+Seifi;Full+Stack+Developer;JavaScript+%7C+Python+%7C+Node.js" />
+</p> -->
 
 ---
 
@@ -35,25 +35,10 @@
 
 ---
 
-## 🚀 Projects
+<!-- Footer -->
 <p align="center">
-  <a href="https://github.com/sinaseifi-f/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinaseifi-f&repo=Project1&theme=radical&bg_color=0D1117&hide_border=true" />
-  </a>
-  <a href="https://github.com/sinaseifi-f/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinaseifi-f&repo=Project2&theme=radical&bg_color=0D1117&hide_border=true" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
-
----
-
-## 🎯 Fun Fact
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=9f7aea&center=true&vCenter=true&width=500&lines=Code%2C+Eat%2C+Sleep%2C+Repeat;Lover+of+Clean+Code;Always+Learning+New+Things" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2&height=30&section=footer" />
 </p>
